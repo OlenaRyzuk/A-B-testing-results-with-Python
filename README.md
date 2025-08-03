@@ -22,7 +22,7 @@ The primary goal of this analysis was to test the hypothesis that a redesigned i
 
 ### Project Outcomes
 
-The analysis showed that **Variant B** resulted in a **2.8 percentage points increase in conversion **. These results were found to be statistically significant, leading to the recommendation to fully implement the new interface.
+The analysis showed that **Variant B** resulted in a **2.8 percentage points increase in conversion**. These results were found to be statistically significant, leading to the recommendation to fully implement the new interface.
 
 ---
 
