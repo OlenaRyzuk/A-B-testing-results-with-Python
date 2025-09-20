@@ -8,9 +8,8 @@ This repository contains an analysis of survey data, including:
 - Relationships between work experience (`WorkExp`), programming languages, and compensation
 
 ## Technologies Used
-- Python (pandas, numpy, matplotlib/seaborn)
+- Python (pandas, numpy, matplotlib)
 - Jupyter Notebook
-- GitHub for version control
 
 ## How to Run
 1. Clone the repository:  
