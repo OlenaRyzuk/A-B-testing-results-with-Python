@@ -11,14 +11,13 @@ This repository contains an analysis of survey data, including:
 - Python (pandas, numpy, matplotlib)
 - Jupyter Notebook
 
-## How to Run
-1. Clone the repository:  
-git clone Stackoverflow Survey Analysis
-2. Install required packages:
-pip install -r requirements.txt
-3. Open the notebook:
-jupyter notebook notebooks/survey_analysis.ipynb
-4. Follow the notebook to explore the data and visualizations.
+## How to View or Run
+
+- **View on GitHub:**  
+You can open the Jupyter Notebook directly on GitHub to see the code, tables, and visualizations without installing anything. Simply navigate to `notebooks/survey_analysis.ipynb` in the repository.
+
+- **Run Locally (Optional):**  
+If you want to run the notebook on your own computer, you need Jupiter Notebook and the required libraries installed: pandas, numpy, matplotlib.
 
 ## Key Findings
 - Among respondents who program in Python, mean and median compensation varies by country.
