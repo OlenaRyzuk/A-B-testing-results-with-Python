@@ -44,6 +44,7 @@ The focus is on daily and campaign-level metrics, identifying relationships betw
 - Simply increasing impressions and clicks is insufficient; campaigns and content need optimization.
 
 ## How to Run
+
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/OlenaRyzuk/Python-projects.git
