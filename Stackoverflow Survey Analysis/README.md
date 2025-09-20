@@ -31,11 +31,11 @@ This repository contains an analysis of survey data, including:
 1. Clone the repository:  
 ```bash
 git clone https://github.com/yourusername/project-name.git
-Install required packages:
+2. Install required packages:
 pip install -r requirements.txt
-Open the notebook:
+3. Open the notebook:
 jupyter notebook notebooks/survey_analysis.ipynb
-Follow the notebook to explore the data and visualizations.
+4. Follow the notebook to explore the data and visualizations.
 Key Findings
 - Among respondents who program in Python, mean and median compensation varies by country.
 - The top 5 respondents with the highest compensation have education levels of Bachelor’s degree (2) and Doctorate (3).
