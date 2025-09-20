@@ -45,6 +45,11 @@ The focus is on daily and campaign-level metrics, identifying relationships betw
 - Simply increasing impressions and clicks is insufficient; campaigns and content need optimization.
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/marketing-analysis.git
+**1. Clone the repository:**
+git clone https://github.com/OlenaRyzuk/Python-projects.git
+cd "Python-projects/Marketing Campaigns Effectiveness"
+**2. Install required Python packages (manually if needed):**
+pip install pandas matplotlib seaborn
+**3. Run the analysis:**
+Jupyter Notebook:
+jupyter notebook "Marketing Campaigns Effectiveness.ipynb"
