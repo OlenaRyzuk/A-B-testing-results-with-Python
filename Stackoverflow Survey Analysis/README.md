@@ -1,6 +1,5 @@
 # Survey Data Analysis
 
-## Description
 This repository contains an analysis of survey data, including:
 - Measures of central tendency (mean, median)
 - Compensation analysis (`ConvertedCompYearly`) by country
