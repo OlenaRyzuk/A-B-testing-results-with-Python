@@ -14,13 +14,14 @@ This repository contains an analysis of survey data, including:
 
 ## How to Run
 1. Clone the repository:  
-git clone https://github.com/yourusername/project-name.git
+git clone Stackoverflow Survey Analysis
 2. Install required packages:
 pip install -r requirements.txt
 3. Open the notebook:
 jupyter notebook notebooks/survey_analysis.ipynb
 4. Follow the notebook to explore the data and visualizations.
-Key Findings
+
+## Key Findings
 - Among respondents who program in Python, mean and median compensation varies by country.
 - The top 5 respondents with the highest compensation have education levels of Bachelor’s degree (2) and Doctorate (3).
 - Relationships between work experience and compensation were observed.
