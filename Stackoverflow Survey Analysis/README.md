@@ -5,7 +5,7 @@ This repository contains an analysis of survey data, including:
 - Measures of central tendency (mean, median)
 - Compensation analysis (`ConvertedCompYearly`) by country
 - Distribution of education levels among respondents
-- Relationships between work experience (`WorkExp`), programming languages, and compensation
+- Relationships between education level and compensation
 
 ## Technologies Used
 - Python (pandas, numpy, matplotlib)
@@ -22,4 +22,3 @@ If you want to run the notebook on your own computer, you need Jupiter Notebook 
 ## Key Findings
 - Among respondents who program in Python, mean and median compensation varies by country.
 - The top 5 respondents with the highest compensation have education levels of Bachelor’s degree (2) and Doctorate (3).
-- Relationships between work experience and compensation were observed.
