@@ -34,10 +34,9 @@ The focus is on daily and campaign-level metrics, identifying relationships betw
 - Scatter plot of **ad spend vs revenue** confirms the linear relationship and absence of outliers.
 
 ## Technologies Used
-- **Python**
-- **pandas** — data processing
-- **matplotlib** and **seaborn** — visualizations (line plots, scatter plot, heatmap, boxplot)
-
+- **Python** (**pandas** — data processing, **matplotlib** and **seaborn** — visualizations (line plots, scatter plot, heatmap, boxplot))
+- **Jupyter Notebook**
+- 
 ## General Conclusions
 - Marketing campaigns are generally effective: ad spend is strongly correlated with revenue.  
 - Moving averages help identify trends and smooth out daily fluctuations.  
@@ -48,8 +47,10 @@ The focus is on daily and campaign-level metrics, identifying relationships betw
 **1. Clone the repository:**
 git clone https://github.com/OlenaRyzuk/Python-projects.git
 cd "Python-projects/Marketing Campaigns Effectiveness"
+
 **2. Install required Python packages (manually if needed):**
 pip install pandas matplotlib seaborn
+
 **3. Run the analysis:**
 Jupyter Notebook:
 jupyter notebook "Marketing Campaigns Effectiveness.ipynb"
