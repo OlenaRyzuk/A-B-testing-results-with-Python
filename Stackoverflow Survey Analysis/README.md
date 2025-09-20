@@ -12,24 +12,8 @@ This repository contains an analysis of survey data, including:
 - Jupyter Notebook
 - GitHub for version control
 
-## Project Structure
-/project-folder
-│
-├─ data/ # raw and cleaned data
-│ ├─ survey_results.csv
-│ └─ ...
-│
-├─ notebooks/ # analysis notebooks
-│ └─ survey_analysis.ipynb
-│
-├─ scripts/ # helper scripts
-│ └─ data_cleaning.py
-│
-├─ README.md # this file
-└─ requirements.txt # dependencies
 ## How to Run
 1. Clone the repository:  
-```bash
 git clone https://github.com/yourusername/project-name.git
 2. Install required packages:
 pip install -r requirements.txt
