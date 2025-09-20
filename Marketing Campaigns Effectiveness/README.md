@@ -46,13 +46,10 @@ The focus is on daily and campaign-level metrics, identifying relationships betw
 ## How to Run
 
 **1. Clone the repository:**
-```bash
 git clone https://github.com/OlenaRyzuk/Python-projects.git
 
 **2. Install required Python packages (manually if needed):**
-```bash
 pip install pandas matplotlib seaborn
 
 **3. Run the analysis in Jupyter Notebook:**
-```bash
 jupyter notebook "Marketing Campaigns Effectiveness.ipynb"
